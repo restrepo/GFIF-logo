@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
-   width="81.711349"
-   height="71.128395"
+   inkscape:version="0.48.4 r9939"
+   width="706.57245"
+   height="70.575066"
    version="1.0"
-   sodipodi:docname="gfif.svg"
+   sodipodi:docname="gfif.pdf"
    style="display:inline"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
@@ -30,6 +30,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,8 +52,8 @@
        sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="970"
-     inkscape:window-width="1678"
+     inkscape:window-height="1032"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -63,43 +64,48 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.7674338"
-     inkscape:cx="202.83645"
-     inkscape:cy="40"
+     inkscape:zoom="6.0893618"
+     inkscape:cx="122.44863"
+     inkscape:cy="39.513499"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:snap-guide="false"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="background"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(-0.19629005,-0.06682821)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="original"
      style="display:none"
-     transform="translate(-42.91611,-18.510963)">
+     transform="translate(-43.1124,-18.577791)">
     <image
        sodipodi:absref="/home/restrepo/burocracia/GFIF/Imagen/higgs_decay_simulation.gif"
        xlink:href="higgs_decay_simulation.gif"
-       style="display:inline"
-       width="146.07509"
-       height="80"
-       id="image11"
+       y="15.000001"
        x="7.9731483"
-       y="15.000001" />
+       id="image11"
+       height="80"
+       width="146.07509"
+       style="display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="sqaure"
      style="display:inline"
-     transform="translate(-42.91611,-18.510963)">
+     transform="translate(-43.1124,-18.577791)">
     <rect
-       style="opacity:1;fill:#cce5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.43299960999999954;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="fill:#cce5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3189"
        width="81.389046"
        height="70.575066"
@@ -113,89 +119,98 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="linesdown"
-     transform="translate(-42.91611,-18.510963)"
+     transform="translate(-43.1124,-18.577791)"
      style="display:inline">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 82.06662,55.509629 C 92.61883,68.495836 104.37629,78.700701 116.64366,89.044631"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.06662,55.509629 c 10.55221,12.986207 22.30967,23.191072 34.57704,33.535002"
        id="path3216"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cc"
        id="path3218"
        d="M 82.06662,55.509629 C 77.37226,74.369201 75.84515,78.227041 72.78291,89.139361"
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cc"
        id="path3240"
-       d="M 82.06662,55.509629 C 104.08136,46.802292 114.79677,35.597809 124.12746,30.405751"
-       style="fill:none;fill-rule:evenodd;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.06662,55.509629 c 22.01474,-8.707337 32.73015,-19.91182 42.06084,-25.103878"
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 82.06662,55.509629 C 104.08136,46.802292 114.79677,35.597809 124.12746,30.405751"
+       style="fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 82.06662,55.509629 c 22.01474,-8.707337 32.73015,-19.91182 42.06084,-25.103878"
        id="path3242"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cc"
        id="path3246"
-       d="M 82.06662,55.509629 C 104.08136,46.802292 114.79677,35.597809 124.12746,30.405751"
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.06662,55.509629 c 22.01474,-8.707337 32.73015,-19.91182 42.06084,-25.103878"
+       style="fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cccc"
        id="path3248"
-       d="M 82.06662,55.509629 C 69.60663,32.986786 60.05107,30.337707 53.15457,33.167673 C 35.97024,43.913722 44.38531,73.127611 59.6226,71.078741 C 69.45676,71.799781 78.33827,58.35516 81.49984,55.920365"
-       style="fill:none;fill-rule:evenodd;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 82.06662,55.509629 C 69.60663,32.986786 60.05107,30.337707 53.15457,33.167673 35.97024,43.913722 44.38531,73.127611 59.6226,71.078741 69.45676,71.799781 78.33827,58.35516 81.49984,55.920365"
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#5e2691;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 82.06662,55.509629 C 69.60663,32.986786 60.05107,30.337707 53.15457,33.167673 C 35.97024,43.913722 44.38531,73.127611 59.6226,71.078741 C 69.45676,71.799781 78.33827,58.35516 81.49984,55.920365"
+       style="fill:none;stroke:#5e2691;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 82.06662,55.509629 C 69.60663,32.986786 60.05107,30.337707 53.15457,33.167673 35.97024,43.913722 44.38531,73.127611 59.6226,71.078741 69.45676,71.799781 78.33827,58.35516 81.49984,55.920365"
        id="path3250"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 82.06662,55.509629 C 68.178072,57.885893 50.284529,56.344036 43.41611,50.583589"
        id="path3281"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cc"
        id="path3283"
        d="M 82.06662,55.509629 C 68.178072,57.885893 50.284529,56.344036 43.41611,50.583589"
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="gfif"
      style="display:inline"
-     transform="translate(-42.91611,-18.510963)">
+     transform="translate(-43.1124,-18.577791)">
     <g
-       style="display:inline;fill:#000000;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1;display:inline"
        id="g3176"
        transform="translate(227.02768,-106.16526)"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
@@ -207,7 +222,7 @@
          id="text2388"
          y="191.9465"
          x="108.43782"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Good Times;-inkscape-font-specification:Good Times"
          xml:space="preserve"><tspan
            y="191.9465"
            x="108.43782"
@@ -229,7 +244,7 @@
              y="191.14233">FI</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Good Times;-inkscape-font-specification:Good Times"
            x="126.19467"
            y="158.02046"
            id="text2392"
@@ -247,41 +262,44 @@
      id="layer5"
      inkscape:label="linesup"
      style="display:inline"
-     transform="translate(-42.91611,-18.510963)">
+     transform="translate(-43.1124,-18.577791)">
     <path
        sodipodi:nodetypes="cc"
        id="path3258"
-       d="M 82.06662,55.509629 C 92.97803,60.952614 96.71333,61.459053 110.53724,62.104555"
-       style="fill:none;fill-rule:evenodd;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 82.06662,55.509629 c 10.91141,5.442985 14.64671,5.949424 28.47062,6.594926"
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffb600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-       d="M 82.06662,55.509629 C 92.97803,60.952614 96.71333,61.459053 110.53724,62.104555"
+       style="fill:none;stroke:#ffb600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 82.06662,55.509629 c 10.91141,5.442985 14.64671,5.949424 28.47062,6.594926"
        id="path3262"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cc"
        id="path3264"
-       d="M 82.06662,55.509629 C 90.46362,46.464839 94.07919,31.166433 89.70358,18.760963"
-       style="fill:none;fill-rule:evenodd;stroke:#ffb600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="m 82.06662,55.509629 c 8.397,-9.04479 12.01257,-24.343196 7.63696,-36.748666"
+       style="fill:none;stroke:#ffb600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/home/restrepo/burocracia/GFIF/Imagen/gfif.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="label"
      style="display:inline"
-     transform="translate(-42.91611,-18.510963)">
+     transform="translate(-43.1124,-18.577791)">
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#cce5ff;fill-opacity:1;stroke:none;display:inline;font-family:Good Times;-inkscape-font-specification:Good Times"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Good Times;-inkscape-font-specification:Good Times"
        x="137.57909"
        y="46.881481"
        id="text3266"

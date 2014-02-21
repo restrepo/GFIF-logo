@@ -3,6 +3,13 @@ install Good Times Font (included) in debian
 
 # mkdir /usr/share/fonts/truetype/ttf-good-times/
 # cp good-times.ttf /usr/share/fonts/truetype/ttf-good-times/
+
+DEBIAN:
+
+# fc-cache -fv
+
+UBUNTU:
+
 # defoma-hints -c --no-question truetype /usr/share/fonts/truetype/ttf-good-times/* > /etc/defoma/hints/ownfonts.hints
 
 Now you register this file to defoma:
