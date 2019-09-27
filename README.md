@@ -1,4 +1,4 @@
-[![gfif_path_square.svg](gfif_path_square.svg)](gfif_path_square.svg)
+[![gfif_path.svg](gfif_path.svg)](./gfif_path.svg)
 To open with the proper fonts, use the inkscape of gfif or
 install Good Times Font (included) in debian
 
