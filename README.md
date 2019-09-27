@@ -1,6 +1,6 @@
 [![gfif_path.svg](gfif_path.svg)](./gfif_path.svg)
 
-The `_path_` `svg` versions does not require install new fonts.
+The `_path_` `svg` versions do not require install new fonts.
 
 To open with the proper fonts, use the inkscape of gfif or
 install Good Times Font (included) in debian
